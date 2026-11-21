@@ -1,0 +1,6 @@
+outs:
+- md5: 6d33792ba90fbc69ed3c447d6d153be4.dir
+  size: 904126783
+  nfiles: 1802
+  hash: md5
+  path: lighting
